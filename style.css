@@ -1,0 +1,17 @@
+canvas{
+
+        box-shadow: 10px 10px 10px grey;
+        border-radius: 10px;
+        margin-top: 150px;
+
+}
+
+body{
+    background-color: cyan;
+
+}
+
+#heading{
+    font-size: 30px;
+    margin-top: 50px;
+}
